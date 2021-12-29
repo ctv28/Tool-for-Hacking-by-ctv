@@ -1,6 +1,6 @@
 # Tool-for-Hacking-by-ctv
 
-Step's To Use Tools -
+#Step's To Use Tools -
 
 1 - Turn Off AnvtiVirus.
 2 - Run The - .exe file.
@@ -9,9 +9,9 @@ Step's To Use Tools -
 6 - Select the tool you want to use.
 7 - You are good to goo.
 
-Credits - ctv
+#Credits - ctv
 
-Donate -  
+#Donate -  
 
 Important note: Crypto addresses are asset specific. 
 Do not send Bitcoin to a Bitcoin Cash address, for example, or your funds will be lost.
